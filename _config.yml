@@ -1,0 +1,5 @@
+title: Wyatt Petula
+description: Exploring the universe, one line of code at a time.
+remote_theme: pages-themes/architect@v0.2.0
+plugins:
+- jekyll-remote-theme
